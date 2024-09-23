@@ -2,6 +2,8 @@ Sistematização CRUD um aplicativo para adicionar Livros
 Descrição do Projeto
 Este projeto é um aplicativo Android nativo que implementa funcionalidades CRUD (Create, Read, Update, Delete) usando SQLite para a persistência de dados. Ele permite adicionar e gerenciar informações em uma interface simples e funcional.
 
+video do aplicativo funcional (https://youtu.be/LVYeYU_j9Ig)
+
 Autores
 1.	Rayonny Cássio Gomes Lemos = RA:72300528 (Responsável por desenvolvimento backend banco de dados)
 
